@@ -1,0 +1,6 @@
+{
+  "name": "KDN Ops Fotogrid",
+  "description": "Aplikasi pengurusan fotogrid operasi Kementerian Dalam Negeri (KDN) berformat 4-grid segi empat sama, eksport JPEG dan sistem peringatan automatik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

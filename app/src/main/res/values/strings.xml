@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KDN Ops</string>
+    <string name="full_app_name">KDN Ops Fotogrid</string>
+    <string name="agency_subtitle">Kementerian Dalam Negeri Malaysia</string>
+    <string name="nav_fotogrid">Fotogrid</string>
+    <string name="nav_operations">Operasi</string>
+    <string name="nav_reminders">Peringatan</string>
+    <string name="nav_profile">Profil</string>
+</resources>
